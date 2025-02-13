@@ -22,22 +22,22 @@ Sensor panels are located on:
 - Upper bar middle
 
 
-## Bill of Materials
+## Bill of Materials (BOM)
+
+### Mechanical Components BOM
 
 Each item on the BOM requires the following three mechanical components:
 
-| Mechanical Components BOM |
-| ------------------------- |
 | Component                 | McMaster-Carr Part Number | Unit Cost (USD) |
 | M3 Heat-set Insert        | 94180A331 | 0.2044 |
 | M3 Washer                 | 98269A420 | 0.0247 |
 | M3 Fastener 8 mm          | 91290A015 | 0.1876 |
 | TOTAL                     |  | 0.4167 |
 
+### Apisuru BOM
+
 Basic setup, with no sensor plates. Each sensor plate requires qty 2 of the mechanical components set.
 
-| Apisuru BOM                    |
-| ------------------------------ |
 | Location                       | Quantity |
 | Side Left                      | 2 |
 | Lower                          | 8 |
@@ -46,7 +46,7 @@ Basic setup, with no sensor plates. Each sensor plate requires qty 2 of the mech
 | TOTAL                          | 18 |
 | Mechanical Cost                | 7.50 |
 |                                |  |
-| For each sensor plate addition | 2 |
+| __For each sensor plate addition__ | __2__ |
 
 
 ## License
