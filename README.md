@@ -32,12 +32,12 @@ Each item on the BOM requires the following three mechanical components:
 | ------------------ | ------------------------- | --------------- |
 | M3 Heat-set Insert        | 94180A331 | 0.2044 |
 | M3 Washer                 | 98269A420 | 0.0247 |
-| M3 Fastener 8 mm          | 91290A015 | 0.1876 |
-| TOTAL                     |  | 0.4167 |
+| M3 Fastener 5 mm          | 91290A012 | 0.1810 |
+| TOTAL                     |  | 0.4101 |
 
 ### Apisuru BOM
 
-Basic setup, with no sensor plates. Each sensor plate requires qty 2 of the mechanical components set.
+Here is how many of the mechanical components are needed. This is the basic setup, with no sensor plates. Each sensor plate requires qty 2 of the mechanical components set.
 
 | Location                       | Quantity |
 | ------------------------------ | -------- |
@@ -46,7 +46,7 @@ Basic setup, with no sensor plates. Each sensor plate requires qty 2 of the mech
 | Side Right                     | 2 |
 | Upper                          | 6 |
 | TOTAL                          | 18 |
-| Mechanical Cost                | 7.50 |
+| Mechanical Cost                | 7.38 |
 |                                |  |
 | _For each sensor plate addition_ | _2_ |
 
