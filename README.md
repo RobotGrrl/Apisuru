@@ -4,7 +4,7 @@
 
 **Apisuru** is a bee frame design featuring sensor panels and pockets for electronics that is designed for 3D printing. Apisuru's deep [frame dimensions](https://github.com/RobotGrrl/Apisuru/blob/main/Apisuru_Frame_Dimensional_Drawing.pdf) are based on the widely used [Langstroth Hive](https://beeprofessor.com/langstroth-hive-dimensions/). Foundation can be installed inside the frame by sliding it between the rails in the upper and lower bars.
 
-By integrating sensors, **Apisuru** could provide remote monitoring of real-time data on pressure, temperature, humidity, sound, and light levels. Tracking these parameters could help identify patterns related to hive health, such as pest invasions or environmental stressors.
+By integrating sensors, Apisuru could provide remote monitoring of real-time data on pressure, temperature, humidity, sound, and light levels. Tracking these parameters could help identify patterns related to hive health, such as pest invasions or environmental stressors.
 
 ![Apisuru Frame in Bee Box Photographs](https://github.com/RobotGrrl/Apisuru/blob/main/images/apisuru_frame_collage2.jpg?raw=true)
 
@@ -16,7 +16,7 @@ _Note:_ This first iteration of Apisuru might not have the weight holding capabi
 
 ## Sensor Panels
 
-Each location with a sensor panel available has the naming convention of `FxBy`, where x and y could be 0 or 1. 0 represents that the piece has the mounting points for a sensor panel. 1 represents that the piece is filled. 
+The sensor panels are seen above as the pastel green triangular pieces. Each location with a sensor panel available has the naming convention of `FxBy`, where x and y could be 0 or 1. 0 represents that the piece has the mounting points for a sensor panel. 1 represents that the piece is filled. 
 
 Sensor panels are located on:
 - Side upper (left and right)
