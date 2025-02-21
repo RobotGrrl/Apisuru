@@ -65,6 +65,8 @@ Here is how many of the mechanical components are needed. This is the basic setu
 
 **Apisuru** is open source and available under the [CERN Open Hardware license](https://cern-ohl.web.cern.ch/), specifically CERN-OHL-P version 2.0. Let us know if you are interested in adapting Apisuru for an experiment in your hive this bee season!
 
+Apisuru documentation is available under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
 Apisuru © Copyright Erin RobotZwrrl, Robot Missions Inc.
 
 13 Feb 2025 (02-13-25) v1.0
