@@ -2,17 +2,17 @@
 
 ![Apisuru Frame Photographs](https://github.com/RobotGrrl/Apisuru/blob/main/images/apisuru_frame_collage1.jpg?raw=true)
 
-![Apisuru Frame in Bee Box Photographs](https://github.com/RobotGrrl/Apisuru/blob/main/images/apisuru_frame_collage2.jpg?raw=true)
-
 **Apisuru** is a bee frame design featuring sensor panels and pockets for electronics that is designed for 3D printing. Apisuru's deep [frame dimensions](https://github.com/RobotGrrl/Apisuru/blob/main/Apisuru_Frame_Dimensional_Drawing.pdf) are based on the widely used [Langstroth Hive](https://beeprofessor.com/langstroth-hive-dimensions/). Foundation can be installed inside the frame by sliding it between the rails in the upper and lower bars.
 
 By integrating sensors, **Apisuru** could provide remote monitoring of real-time data on pressure, temperature, humidity, sound, and light levels. Tracking these parameters could help identify patterns related to hive health, such as pest invasions or environmental stressors.
 
-Presently, existing frames do not have the space for electronics, such as pockets or channels for wires to pass through. Adding electronics to the outside of existing frames increases the chances of being frozen in place with [propolis](https://en.wikipedia.org/wiki/Propolis).
+![Apisuru Frame in Bee Box Photographs](https://github.com/RobotGrrl/Apisuru/blob/main/images/apisuru_frame_collage2.jpg?raw=true)
+
+Presently, existing frames do not have the space for electronics, such as pockets or channels for wires to pass through. Adding electronics to the outside of existing frames increases the chances of being frozen in place with propolis.
 
 To keep the sensors and electronics clear of the brood area, the sensor panels are placed near the outer arc of the rainbow pattern. The sensor plates are barebones, intended to be modified with whatever your custom sensor plan will be. 
 
-This first iteration of Apisuru might not have the weight holding capability as regular frames, since the piece is split into thirds for 3D printing on smaller build platforms. Improvements are planned for a derivative from the first iteration.
+_Note:_ This first iteration of Apisuru might not have the weight holding capability as regular frames, since the piece is split into thirds for 3D printing on smaller build platforms. Improvements are planned for a derivative from the first iteration.
 
 ## Sensor Panels
 
@@ -67,6 +67,6 @@ Here is how many of the mechanical components are needed. This is the basic setu
 
 Apisuru © Copyright Erin RobotZwrrl, Robot Missions Inc.
 
-13-02-25 v1.0
+13 Feb 2025 (02-13-25) v1.0
 
 [RobotMissions.org](https://robotmissions.org)
